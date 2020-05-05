@@ -1,0 +1,10 @@
+
+
+#signup {
+    display: none;
+}
+
+.book-open {
+    position: fixed;
+    top: 4rem;
+}
